@@ -4,3 +4,4 @@ on the board
 [screen-capture (2).webm](https://github.com/waqarbaig6133/Scrabble-Solver/assets/140295418/85e7ecdc-77b9-4bcf-86eb-888b932561d2)
 
 If you want to run the code, you may need to run it on something like replit like me because a lot of people including me are having problems running this thing on desktop IDEs
+I'm a novice when it comes to understanding this library, but found that it could be used as a dicitonary, but don't know if it's only in English. So many words sound weird like urao, but then you see that it is a mineral. 
