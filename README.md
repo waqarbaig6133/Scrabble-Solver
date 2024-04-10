@@ -1,0 +1,1 @@
+Using the NLTK (Natural Language Toolkit) library to get access to possibly all of the english words, this program allows you generate all of the possible words that the letters in front you in the game Scrabble can be made. Now be smart in which word to choose in order to get the highest point, there are a lot to choose from! 
