@@ -5,12 +5,12 @@ from nltk.corpus import words
 words = words.words()
 letters = input("What are the letters present: ")
 
-available_words = []
+present_words = []
 
-for x in english_words:
-  intersection = list(set(letters) & set(english_words))
-  if len(intersection) == len(list(x)):
-    available_words.append(x)
-print(sorted(avaiable_words, key = len))
+for x in words:
+  intersection = list(set(x) & set(words))
+  if len(intersection) == len(x):
+    present_words.append(x)
+print(sorted(present_words, key = len))
     
 
